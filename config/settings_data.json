@@ -178,64 +178,6 @@
           "footer_content_text": "Copyright © 2025 All rights reserved."
         }
       },
-      "1503231244573": {
-        "type": "ad-banner",
-        "blocks": {
-          "1506803279562": {
-            "type": "image",
-            "settings": {
-              "link_text": "Dresses",
-              "link": "shopify://collections/all"
-            }
-          },
-          "1506803308948": {
-            "type": "image",
-            "settings": {
-              "link_text": "Sunglasses",
-              "link": "shopify://collections/all"
-            }
-          },
-          "1514473881970": {
-            "type": "image",
-            "settings": {
-              "link_text": "Watches",
-              "link": "shopify://collections/all"
-            }
-          },
-          "1514473919786": {
-            "type": "image",
-            "settings": {
-              "link_text": "Footerwear",
-              "link": "shopify://collections/all"
-            }
-          },
-          "1514473952044": {
-            "type": "image",
-            "settings": {
-              "link_text": "Bags",
-              "link": "shopify://collections/all"
-            }
-          },
-          "1514474049400": {
-            "type": "image",
-            "settings": {
-              "link_text": "Accessories",
-              "link": "shopify://collections/all"
-            }
-          }
-        },
-        "block_order": [
-          "1506803279562",
-          "1506803308948",
-          "1514473881970",
-          "1514473919786",
-          "1514473952044",
-          "1514474049400"
-        ],
-        "settings": {
-          "feature_advert_design": "feature-advert6"
-        }
-      },
       "1504781997946": {
         "type": "service-box",
         "blocks": {
@@ -298,10 +240,24 @@
           "collection": "3-teiler",
           "products_tab_count": "8"
         }
+      },
+      "collection_tab_cmTAbn": {
+        "type": "collection-tab",
+        "name": "Collection Tabs",
+        "settings": {
+          "products_tab_layout": "products-tab1",
+          "heading": "Bikini Collection 2025",
+          "products_tab_collection1": "2-teiler",
+          "products_tab_collection2": "3-teiler",
+          "products_tab_collection3": "",
+          "products_tab_collection4": "",
+          "products_tab_collection5": "",
+          "products_tab_count": "10"
+        }
       }
     },
     "content_for_index": [
-      "1503231244573",
+      "collection_tab_cmTAbn",
       "1504983008053",
       "collection_UE7BpU",
       "1508329681974",
