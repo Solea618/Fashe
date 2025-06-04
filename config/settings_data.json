@@ -248,9 +248,9 @@
         "type": "blog",
         "name": "Blog section",
         "settings": {
-          "layout": "blog-2",
+          "layout": "blog-1",
           "heading": "LATEST BLOGS & UPDATES",
-          "blog": ""
+          "blog": "news"
         }
       }
     },
