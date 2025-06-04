@@ -66,7 +66,7 @@
     "shipping_calculator_default_country": "United States",
     "shipping_calculator_submit_button_label": "Calculate shipping",
     "shipping_calculator_submit_button_label_disabled": "Calculating...",
-    "show_pupup": false,
+    "show_pupup": true,
     "popup_title": "newsletter",
     "show_pupup_image": true,
     "popup_heading": "SUBSCRIBE TO OUR NEWSLETTER",
@@ -74,10 +74,10 @@
     "popup_btn_text": "Subscribe",
     "popup_no_link_text": "Don’ts show",
     "social_sidebar_enable": true,
-    "social_twitter_link": "https://twitter.com/shopify",
-    "social_facebook_link": "https://facebook.com/shopify",
-    "social_pinterest_link": "https://pinterest.com/shopify",
-    "social_google_plus_link": "https://plus.google.com/+shopify",
+    "social_twitter_link": "",
+    "social_facebook_link": "",
+    "social_pinterest_link": "",
+    "social_google_plus_link": "",
     "social_instagram_link": "https://instagram.com/shopify",
     "social_tumblr_link": "",
     "social_youtube_link": "",
@@ -87,7 +87,7 @@
     "superscript_decimals": true,
     "show_multiple_currencies": true,
     "currency_format": "money_format",
-    "supported_currencies": "USD EUR GBP PKR CAD JPY",
+    "supported_currencies": "USD EUR GBP PKR CAD JPY CHF",
     "default_currency": "USD",
     "checkout_header_image": "",
     "checkout_logo_image": "",
@@ -156,8 +156,9 @@
           "top_bar_message": "Free shipping for standard order over $100",
           "show_email": true,
           "show_social_links": true,
-          "header_email_text": "fashe@example.com",
+          "header_email_text": "soleamarketing@outlook.com",
           "logo_use_image": true,
+          "logo": "shopify://shop_images/Image.jpg",
           "header_menu_1": "main-menu"
         }
       },
@@ -174,58 +175,7 @@
           "footer_newsletter_enable": true,
           "mailing_list_form_action": "",
           "heading": "Subscribe",
-          "footer_content_text": "Copyright © 2018 All rights reserved."
-        }
-      },
-      "1480267833382": {
-        "type": "slideshow",
-        "blocks": {
-          "1480267833382-1": {
-            "type": "image",
-            "settings": {
-              "heading": "Women Collection 2018",
-              "heading_appear": "fadeInDown",
-              "subheading": "New arrivals",
-              "subheading_appear": "fadeInUp",
-              "slide_link_text": "Shop Now",
-              "slide_link": "shopify://collections",
-              "slide_appear": "zoomIn"
-            }
-          },
-          "1480267833382-0": {
-            "type": "image",
-            "settings": {
-              "heading": "Women Collection 2018",
-              "heading_appear": "rollIn",
-              "subheading": "New arrivals",
-              "subheading_appear": "lightSpeedIn",
-              "slide_link_text": "Shop Now",
-              "slide_link": "shopify://collections",
-              "slide_appear": "slideInUp"
-            }
-          },
-          "1507555687103": {
-            "type": "image",
-            "settings": {
-              "heading": "Women Collection 2018",
-              "heading_appear": "rotateInDownLeft",
-              "subheading": "New arrivals",
-              "subheading_appear": "rotateInUpRight",
-              "slide_link_text": "Shop Now",
-              "slide_link": "shopify://collections/all",
-              "slide_appear": "rotateIn"
-            }
-          }
-        },
-        "block_order": [
-          "1480267833382-1",
-          "1480267833382-0",
-          "1507555687103"
-        ],
-        "settings": {
-          "autoplay": true,
-          "autoplay_speed": "10000",
-          "layout_slider": "slider-1"
+          "footer_content_text": "Copyright © 2025 All rights reserved."
         }
       },
       "1503231244573": {
@@ -292,22 +242,22 @@
           "1504781997946-0": {
             "type": "box",
             "settings": {
-              "feature_service_title": "Free Delivery Worldwide",
-              "feature_service_description": "Mirum est notare quam littera gothica"
+              "feature_service_title": "Order for 100€ and get a free delivery",
+              "feature_service_description": ""
             }
           },
           "1504781997946-1": {
             "type": "box",
             "settings": {
-              "feature_service_title": "30 Days Return",
-              "feature_service_description": "Simply return it within 30 days for an exchange."
+              "feature_service_title": "Order your Bikini an do good!",
+              "feature_service_description": "Parts of our revenue are going directly to charity"
             }
           },
           "1504782065705": {
             "type": "box",
             "settings": {
-              "feature_service_title": "Store Opening",
-              "feature_service_description": "Shop open from Monday to Sunday"
+              "feature_service_title": "Win prices worth up to 1000€",
+              "feature_service_description": "Every 50€ gets 1 lot"
             }
           }
         },
@@ -329,14 +279,6 @@
           "products_tab_count": "8"
         }
       },
-      "1507203403431": {
-        "type": "blog",
-        "settings": {
-          "layout": "blog-1",
-          "heading": "Our Blog",
-          "blog": "news"
-        }
-      },
       "1508329681974": {
         "type": "instagram-feed",
         "settings": {
@@ -348,36 +290,20 @@
           "no_of_products": "5"
         }
       },
-      "1514553331574": {
-        "type": "product-deals",
-        "blocks": {
-          "1514553331574-0": {
-            "type": "deal",
-            "settings": {
-              "product_deal": "boxy2-t-shirt-with-roll-sleeve",
-              "custom_image": true,
-              "expiry_deal": "2019/01/01"
-            }
-          }
-        },
-        "block_order": [
-          "1514553331574-0"
-        ],
+      "collection_UE7BpU": {
+        "type": "collection",
         "settings": {
-          "collection_layout": "deals-layout1",
-          "heading": "The Beauty",
-          "subheading": "Lookbook",
-          "link_text": "View Collection",
-          "link": "shopify://collections/all"
+          "collection_layout": "feature-carousal2",
+          "heading": "3 Pcs. Sets",
+          "collection": "3-teiler",
+          "products_tab_count": "8"
         }
       }
     },
     "content_for_index": [
-      "1480267833382",
       "1503231244573",
       "1504983008053",
-      "1514553331574",
-      "1507203403431",
+      "collection_UE7BpU",
       "1508329681974",
       "1504781997946"
     ]
