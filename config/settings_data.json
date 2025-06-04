@@ -52,7 +52,7 @@
     "show_collection_side_listing": false,
     "collection_side_listing_title": "Random Products",
     "collection_side_listing": "frontpage",
-    "show_about_top_image": true,
+    "show_about_top_image": false,
     "cart_notes_enable": true,
     "show_cart_top_image": true,
     "ajax_cart_method": "page",
