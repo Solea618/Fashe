@@ -221,17 +221,6 @@
           "products_tab_count": "8"
         }
       },
-      "1508329681974": {
-        "type": "instagram-feed",
-        "settings": {
-          "layout": "instafeed",
-          "homepage_instagram_feed": true,
-          "insta_title": "@ FOLLOW US ON INSTAGRAM",
-          "insta_access_token": "6857779239.1677ed0.4e7f225760f940d48ed3e8dbb743fef5",
-          "insta_images_fetch": "10",
-          "no_of_products": "5"
-        }
-      },
       "collection_UE7BpU": {
         "type": "collection",
         "settings": {
@@ -260,7 +249,6 @@
       "collection_tab_cmTAbn",
       "1504983008053",
       "collection_UE7BpU",
-      "1508329681974",
       "1504781997946"
     ]
   },
