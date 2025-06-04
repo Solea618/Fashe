@@ -243,52 +243,10 @@
           "products_tab_collection5": "",
           "products_tab_count": "8"
         }
-      },
-      "slideshow_nqRmT3": {
-        "type": "slideshow",
-        "blocks": {
-          "image_PiT3Vm": {
-            "type": "image",
-            "settings": {
-              "image": "shopify://shop_images/5_d50937ce-eca5-4dde-975f-45ae88160ea4.jpg",
-              "heading": "",
-              "heading_appear": "fadeInDown",
-              "subheading": "",
-              "subheading_appear": "fadeInDown",
-              "slide_link_text": "",
-              "slide_link": "",
-              "slide_appear": "fadeInDown"
-            }
-          },
-          "image_3fP98B": {
-            "type": "image",
-            "settings": {
-              "image": "shopify://shop_images/1_a29defc2-13a2-40bb-931a-8b71dba7aa19.jpg",
-              "heading": "",
-              "heading_appear": "fadeInDown",
-              "subheading": "",
-              "subheading_appear": "fadeInDown",
-              "slide_link_text": "",
-              "slide_link": "",
-              "slide_appear": "fadeInDown"
-            }
-          }
-        },
-        "block_order": [
-          "image_PiT3Vm",
-          "image_3fP98B"
-        ],
-        "name": "Slideshow",
-        "settings": {
-          "autoplay": true,
-          "autoplay_speed": "5000",
-          "layout_slider": "slider-2"
-        }
       }
     },
     "content_for_index": [
       "collection_tab_cmTAbn",
-      "slideshow_nqRmT3",
       "1504983008053",
       "collection_UE7BpU",
       "1504781997946"
