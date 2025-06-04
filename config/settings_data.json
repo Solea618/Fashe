@@ -249,7 +249,7 @@
         "name": "Blog section",
         "settings": {
           "layout": "blog-1",
-          "heading": "LATEST BLOGS & UPDATES",
+          "heading": "Latest News",
           "blog": "news"
         }
       }
