@@ -250,6 +250,7 @@
           "image_PiT3Vm": {
             "type": "image",
             "settings": {
+              "image": "shopify://shop_images/5_d50937ce-eca5-4dde-975f-45ae88160ea4.jpg",
               "heading": "",
               "heading_appear": "fadeInDown",
               "subheading": "",
@@ -262,6 +263,7 @@
           "image_3fP98B": {
             "type": "image",
             "settings": {
+              "image": "shopify://shop_images/1_a29defc2-13a2-40bb-931a-8b71dba7aa19.jpg",
               "heading": "",
               "heading_appear": "fadeInDown",
               "subheading": "",
@@ -280,7 +282,7 @@
         "settings": {
           "autoplay": true,
           "autoplay_speed": "5000",
-          "layout_slider": "slider-3"
+          "layout_slider": "slider-2"
         }
       }
     },
