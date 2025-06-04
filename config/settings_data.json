@@ -243,10 +243,20 @@
           "products_tab_collection5": "",
           "products_tab_count": "8"
         }
+      },
+      "blog_yXn44W": {
+        "type": "blog",
+        "name": "Blog section",
+        "settings": {
+          "layout": "blog-2",
+          "heading": "LATEST BLOGS & UPDATES",
+          "blog": ""
+        }
       }
     },
     "content_for_index": [
       "collection_tab_cmTAbn",
+      "blog_yXn44W",
       "1504983008053",
       "collection_UE7BpU",
       "1504781997946"
